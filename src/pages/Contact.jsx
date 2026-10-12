@@ -33,7 +33,7 @@ export default function Contact() {
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '28px' }}>
         {/* Dealership Info Card */}
         <div className="cardBox">
-          <h3>Showroom Flagship</h3>
+          <h3>Showroom Address</h3>
           <p style={{ color: '#22565f', marginTop: '12px', lineHeight: 1.7, fontSize: '0.95rem' }}>
             Opp. TCS Company Building, HITECH City, Road No.42<br />
             Hyderabad, Telangana-500037<br />
