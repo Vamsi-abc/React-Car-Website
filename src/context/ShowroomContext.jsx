@@ -43,7 +43,7 @@ const DEFAULT_CARS = [
     id: 4,
     name: "Lamborghini Urus",
     category: "SUV",
-    price: 3999999,
+    price: 39999999,
     fuel: "Petrol",
     power: "617 HP",
     topSpeed: "305 km/h",
